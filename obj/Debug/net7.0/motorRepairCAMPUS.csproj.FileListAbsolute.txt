@@ -1,0 +1,15 @@
+/home/arteN01-041/Documents/motorRepairCAMPUS/bin/Debug/net7.0/motorRepairCAMPUS
+/home/arteN01-041/Documents/motorRepairCAMPUS/bin/Debug/net7.0/motorRepairCAMPUS.deps.json
+/home/arteN01-041/Documents/motorRepairCAMPUS/bin/Debug/net7.0/motorRepairCAMPUS.runtimeconfig.json
+/home/arteN01-041/Documents/motorRepairCAMPUS/bin/Debug/net7.0/motorRepairCAMPUS.dll
+/home/arteN01-041/Documents/motorRepairCAMPUS/bin/Debug/net7.0/motorRepairCAMPUS.pdb
+/home/arteN01-041/Documents/motorRepairCAMPUS/obj/Debug/net7.0/motorRepairCAMPUS.csproj.AssemblyReference.cache
+/home/arteN01-041/Documents/motorRepairCAMPUS/obj/Debug/net7.0/motorRepairCAMPUS.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-041/Documents/motorRepairCAMPUS/obj/Debug/net7.0/motorRepairCAMPUS.AssemblyInfoInputs.cache
+/home/arteN01-041/Documents/motorRepairCAMPUS/obj/Debug/net7.0/motorRepairCAMPUS.AssemblyInfo.cs
+/home/arteN01-041/Documents/motorRepairCAMPUS/obj/Debug/net7.0/motorRepairCAMPUS.csproj.CoreCompileInputs.cache
+/home/arteN01-041/Documents/motorRepairCAMPUS/obj/Debug/net7.0/motorRepairCAMPUS.dll
+/home/arteN01-041/Documents/motorRepairCAMPUS/obj/Debug/net7.0/refint/motorRepairCAMPUS.dll
+/home/arteN01-041/Documents/motorRepairCAMPUS/obj/Debug/net7.0/motorRepairCAMPUS.pdb
+/home/arteN01-041/Documents/motorRepairCAMPUS/obj/Debug/net7.0/motorRepairCAMPUS.genruntimeconfig.cache
+/home/arteN01-041/Documents/motorRepairCAMPUS/obj/Debug/net7.0/ref/motorRepairCAMPUS.dll
