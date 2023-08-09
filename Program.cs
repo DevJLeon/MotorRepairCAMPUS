@@ -1,4 +1,5 @@
 ﻿using motorRepairCAMPUS.View;
+using motorRepairCampus.Classes;
 internal class Program
 {
     private static void Main(string[] args)
@@ -10,8 +11,10 @@ internal class Program
 
             switch (mainOption){
                 case 1:
-                    Console.WriteLine("Working");
-                    Console.ReadKey();
+                    int optRegister;
+                    do{
+
+                    }while(optRegister!=4);
                     break;
                 case 2:
                     Console.WriteLine("Working");

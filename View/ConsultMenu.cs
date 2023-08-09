@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace motorRepairCAMPUS.View;
+namespace MotorRepairCAMPUS.View;
 
-public class MainMenu
+public class ConsultMenu
 {
-    
     public int Menu(){
         Console.Clear();
         Console.WriteLine("Menu de Opciones");
